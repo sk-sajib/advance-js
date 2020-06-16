@@ -64,12 +64,12 @@
 
 
 
-const name = NaN
-if(name){
-    console.log('I am true, buddy')
-} else{
-    console.log('I am false, buddy')
-}
+// const name = NaN
+// if(name){
+//     console.log('I am true, buddy')
+// } else{
+//     console.log('I am false, buddy')
+// }
 
 const mori = null
 if(mori){
